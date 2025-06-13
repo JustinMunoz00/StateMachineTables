@@ -197,7 +197,7 @@ public class StateTable {
                                 "En'Q2' " + s.get(0) + "       " + s.get(1) + "       " + s.get(3) + "       " + s.get(2) + "\n"
                                 + "En'Q2  " + s.get(4) + "       " + s.get(5) + "       " + s.get(7) + "       " + s.get(6) + "\n"
                                 + "En Q2  " + s.get(12) + "       " + s.get(13) + "       " + s.get(15) + "       " + s.get(14) + "\n"
-                                + "En Q2' " + s.get(8) + "       " + s.get(8) + "       " + s.get(11) + "       " + s.get(10) + "\n");
+                                + "En Q2' " + s.get(8) + "       " + s.get(9) + "       " + s.get(11) + "       " + s.get(10) + "\n");
                     }
         }
     }
